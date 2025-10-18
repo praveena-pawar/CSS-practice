@@ -1,4 +1,4 @@
-#box {
+/* #box {
     background-color: blue;
 }
 
@@ -8,4 +8,16 @@
 
 button {
     background-color: green;
+} */
+
+p {
+    text-align: left;
 }
+ h1 {
+    text-align: center;
+    text-decoration: wavy underline blue;
+ }
+
+ a {
+    text-decoration: none;
+ }

@@ -1,12 +1,11 @@
-h1 {
-    color: blue;
+#box {
+    background-color: blue;
+}
+
+.heading {
+    color: red;
 }
 
 button {
-    color: orange;
-    background-color: aqua;
-}
-
-body { 
-    background-color: aqua;
+    background-color: green;
 }

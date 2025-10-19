@@ -10,7 +10,7 @@ button {
     background-color: green;
 } */
 
-p {
+/* p {
     text-align: left;
 }
  h1 {
@@ -20,4 +20,25 @@ p {
 
  a {
     text-decoration: none;
+ }
+
+ #one {
+    font-family: cursive;
+ }
+
+ #tow {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ } */
+
+ h1 {
+    text-transform: capitalize;
+    text-align: center;
+ }
+
+ #outer {
+    font-size: 25px;
+ }
+
+ #inner {
+    font-size: 10px;
  }
